@@ -221,7 +221,7 @@ This can make your code a little cleaner and easier to read, it can also let you
 express more complex conditionals. But, use it sparingly! Your logic can quickly
 become difficult to follow!
 
-### You Do: Practice Conditionals
+### Practice Conditionals
 
 Let's spend some time practicing writing conditionals. Open up [this exercise](/instructor/conditionals.js)
 and work through the prompts. Get as far as you can in the time allotted and
@@ -324,7 +324,7 @@ For the first iteration of the loop, `i` is set to 0 (`let i = 0`). Since `i` is
 `instructors.length` (in this case, 5). With each iteration, the value of `i`
 will increase by 1, so we'll retrieve the next item in the array!
 
-### You Do: Practice Iterating over Arrays
+### Practice Iterating over Arrays
 
 Return to [the previous exercise](/instructor/loops.js)
 and work through the prompts in Part 2. These prompts will give you a chance to
