@@ -6,15 +6,15 @@
 
 // console.log('Hey what\'s up')
 
-for (let i = 0; i < 5; i++) {
-    console.log('hello world')
-}
+// for (let i = 0; i < 5; i++) {
+//     console.log('hello world')
+// }
 
-let num = 0;
-while (num < 5) {
-    console.log("hello world");
-    num += 1; // short-hand for num = num + 1
-}
+// let num = 0;
+// while (num < 5) {
+//     console.log("hello world");
+//     num += 1; // short-hand for num = num + 1
+// }
 
 
 // let temp = 75
