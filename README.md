@@ -223,7 +223,7 @@ become difficult to follow!
 
 ### You Do: Practice Conditionals
 
-Let's spend some time practicing writing conditionals. Open up [this exercise](../control-flow-js/instructor/conditionals.js)
+Let's spend some time practicing writing conditionals. Open up [this exercise](/instructor/conditionals.js)
 and work through the prompts. Get as far as you can in the time allotted and
 feel free to come back and review these!
 
@@ -294,7 +294,7 @@ for (let i = 1, j = 5; i < 5; i++, j--) {
 
 ### Practice `for` Loops
 
-Let's spend some time practicing writing loops. Open up [this exercise](../control-flow-js/instructor/loops.js) and work through the prompts. Get as far as you can in the time allotted and feel free to come back and review these!
+Let's spend some time practicing writing loops. Open up [this exercise](/instructor/loops.js) and work through the prompts. Get as far as you can in the time allotted and feel free to come back and review these!
 
 ### Iterating over Arrays
 
@@ -326,7 +326,7 @@ will increase by 1, so we'll retrieve the next item in the array!
 
 ### You Do: Practice Iterating over Arrays
 
-Return to [the previous exercise](../control-flow-js/instructor/loops.js)
+Return to [the previous exercise](/instructor/loops.js)
 and work through the prompts in Part 2. These prompts will give you a chance to
 practice iterating over arrays.
 
@@ -365,7 +365,7 @@ alert('Argh! You have escaped! I am so lonely, no one ever wants to stay.');
 
 ### Practice `while` Loops
 
-Return to [the previous exercise](../control-flow-js/instructor/loops.js)
+Return to [the previous exercise](/instructor/loops.js)
 and work through the prompts in part 3.  These prompts will give you the chance
 to practice writing `for` loops.
 
